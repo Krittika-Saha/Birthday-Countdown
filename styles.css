@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body{
     font-family: 'Balsamiq Sans', cursive;
-    background-image: url('images/birthday.png');
+    background-image: url('images/div_background.png');
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    background-repeat: no-repeat ;
-    margin: 0;
-    width: 100vw;
-    height: 100vh;
-    position: relative;
 }
 h1{
     font-family: 'Lobster', cursive;
